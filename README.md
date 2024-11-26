@@ -6,8 +6,3 @@ This project implements a multi-task classification model to classify bronchosco
 
 Empower accurate diagnosis with our advanced model.
 
-## Requirements
-
-Install dependencies using:
-```bash
-pip install -r requirements.txt
